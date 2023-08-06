@@ -1,0 +1,6 @@
+==Notes==
+
+
+
+Why is the Size of char 2 bytes in Java? 
+So, other languages like C/C++ use only ASCII characters, and to represent all ASCII characters 8 bits is enough. But java uses the Unicode system not the ASCII code system and to represent the Unicode system 8 bits is not enough to represent all characters so java uses 2 bytes for characters. Unicode defines a fully international character set that can represent most of the world’s written languages. It is a unification of dozens of character sets, such as Latin, Greek, Cyrillic, Katakana, Arabic, and many more.

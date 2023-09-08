@@ -40,7 +40,7 @@ String[] strArr3 = str.split(" ", 0);
 	System.out.println(s);
 	}
 	
-	String abc = "geekss@for@geekss";
+	String abc = "hi@for@oyu";
 String[] strArr4 = abc.split("@", 3);
 	
 	for(String s:strArr4)
